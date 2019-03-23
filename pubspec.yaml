@@ -1,0 +1,7 @@
+name: type_helper
+version: 0.1.0
+author: Andrew Mezoni <andrew.mezoni@gmail.com>
+description: A type helper that helps to check if a type is a type of another type
+homepage: https://github.com/mezoni/typeof
+environment:
+  sdk: '>=2.0.0 <3.0.0'
